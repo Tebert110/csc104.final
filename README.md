@@ -7,3 +7,5 @@ the pasdt page is a collection of the past models that i have builds and a small
 the contact page if the view wants to send a message.
 i will havve a picture on the page and i am thinking or putting the links for the other pages at the bottom of each page so you will not hafew to scroll back to the top of the page.
 i also have a description of why i made this site.
+
+uploaded the css page named designed and upload the updated final page. 
