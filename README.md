@@ -9,3 +9,5 @@ i will havve a picture on the page and i am thinking or putting the links for th
 i also have a description of why i made this site.
 
 uploaded the css page named designed and upload the updated final page. 
+
+Uploaded new file on 7.21.2024 at 1846EST
